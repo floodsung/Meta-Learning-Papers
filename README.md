@@ -95,3 +95,6 @@ Neural Computation, 4(1):131–139, 1992.
 
 **[22]** Hariharan, Bharath, and Ross Girshick. **Low-shot visual object recognition** arXiv preprint arXiv:1606.02819 (2016).
 
+**[23]** Wang J X, Kurth-Nelson Z, Tirumala D, et al. **Learning to reinforcement learn**. arXiv preprint arXiv:1611.05763, 2016.
+
+**[24]** Flood Sung, Zhang L, Xiang T, Hospedales T, et al. **Learning to Learn: Meta-Critic Networks for Sample Efficient Learning**. arXiv preprint arXiv:1706.09529, 2017.
