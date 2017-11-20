@@ -98,3 +98,14 @@ Neural Computation, 4(1):131–139, 1992.
 **[23]** Wang J X, Kurth-Nelson Z, Tirumala D, et al. **Learning to reinforcement learn**. arXiv preprint arXiv:1611.05763, 2016.
 
 **[24]** Flood Sung, Zhang L, Xiang T, Hospedales T, et al. **Learning to Learn: Meta-Critic Networks for Sample Efficient Learning**. arXiv preprint arXiv:1706.09529, 2017.
+
+**[25]** Li Z, Zhou F, Chen F, et al. **Meta-SGD: Learning to Learn Quickly for Few Shot Learning**. arXiv preprint arXiv:1707.09835, 2017.
+
+**[26]** Mishra N, Rohaninejad M, Chen X, et al. **Meta-Learning with Temporal Convolutions**. arXiv preprint arXiv:1707.03141, 2017.
+
+**[27]** Frans K, Ho J, Chen X, et al. **Meta Learning Shared Hierarchies**. arXiv preprint arXiv:1710.09767, 2017.
+
+**[28]** Finn C, Yu T, Zhang T, et al. **One-shot visual imitation learning via meta-learning**. arXiv preprint arXiv:1709.04905, 2017.
+
+**[29]** Flood Sung, Yongxin Yang, Zhang Li, Xiang T,Philip Torr, Hospedales T, et al **Learning to Compare: Relation Network for Few Shot Learning**. arXiv preprint arXiv:1711.06025,2017
+
