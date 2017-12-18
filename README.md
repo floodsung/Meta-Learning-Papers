@@ -107,5 +107,8 @@ Neural Computation, 4(1):131–139, 1992.
 
 **[28]** Finn C, Yu T, Zhang T, et al. **One-shot visual imitation learning via meta-learning**. arXiv preprint arXiv:1709.04905, 2017.
 
-**[29]** Flood Sung, Yongxin Yang, Zhang Li, Xiang T,Philip Torr, Hospedales T, et al **Learning to Compare: Relation Network for Few Shot Learning**. arXiv preprint arXiv:1711.06025,2017
+**[29]** Flood Sung, Yongxin Yang, Zhang Li, Xiang T,Philip Torr, Hospedales T, et al **Learning to Compare: Relation Network for Few Shot Learning**. arXiv preprint arXiv:1711.06025, 2017.
 
+**[30]** Brenden M Lake, Ruslan Salakhutdinov, Joshua B Tenenbaum **Human-level concept learning through probabilistic program induction**. In Science, volume 350, pp. 1332-1338, 2015.
+
+    
