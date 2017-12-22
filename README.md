@@ -111,4 +111,4 @@ Neural Computation, 4(1):131–139, 1992.
 
 **[30]** Brenden M Lake, Ruslan Salakhutdinov, Joshua B Tenenbaum **Human-level concept learning through probabilistic program induction**. In Science, volume 350, pp. 1332-1338, 2015.
 
-    
+**[32]** Xu D, Nair S, Zhu Y, et al. **Neural task programming: Learning to generalize across hierarchical tasks**. arXiv preprint arXiv:1710.01813, 2017.
