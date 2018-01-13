@@ -112,3 +112,7 @@ Neural Computation, 4(1):131–139, 1992.
 **[30]** Brenden M Lake, Ruslan Salakhutdinov, Joshua B Tenenbaum **Human-level concept learning through probabilistic program induction**. In Science, volume 350, pp. 1332-1338, 2015.
 
 **[32]** Xu D, Nair S, Zhu Y, et al. **Neural task programming: Learning to generalize across hierarchical tasks**. arXiv preprint arXiv:1710.01813, 2017.
+
+**[33]** Bertinetto, L., Henriques, J. F., Valmadre, J., Torr, P., & Vedaldi, A. (2016). **Learning feed-forward one-shot learners**. In Advances in Neural Information Processing Systems (pp. 523-531).
+
+**[34]** Wang, Yu-Xiong, and Martial Hebert. **Learning to learn: Model regression networks for easy small sample learning.** European Conference on Computer Vision. Springer International Publishing, 2016.
