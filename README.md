@@ -120,3 +120,5 @@ Neural Computation, 4(1):131–139, 1992.
 **[35]** Triantafillou, Eleni, Hugo Larochelle, Jake Snell, Josh Tenenbaum, Kevin Jordan Swersky, Mengye Ren, Richard Zemel, and Sachin Ravi. **Meta-Learning for Semi-Supervised Few-Shot Classification.** ICLR 2018.
 
 **[36]** Rabinowitz, Neil C., Frank Perbet, H. Francis Song, Chiyuan Zhang, S. M. Eslami, and Matthew Botvinick. **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
+
+**[37]** Reed, Scott, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Eslami, Danilo Rezende, Oriol Vinyals, and Nando de Freitas. **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
