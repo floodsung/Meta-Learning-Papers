@@ -122,3 +122,25 @@ Neural Computation, 4(1):131–139, 1992.
 **[36]** Rabinowitz, Neil C., Frank Perbet, H. Francis Song, Chiyuan Zhang, S. M. Eslami, and Matthew Botvinick. **Machine Theory of Mind.** arXiv preprint arXiv:1802.07740 (2018).
 
 **[37]** Reed, Scott, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Eslami, Danilo Rezende, Oriol Vinyals, and Nando de Freitas. **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.** arXiv preprint arXiv:1710.10304 (2017).
+
+**[38]** Xu, Zhongwen, Hado van Hasselt, and David Silver. **Meta-Gradient Reinforcement Learning** arXiv preprint arXiv:1805.09801 (2018).
+
+**[39]** Xu, Kelvin, Ellis Ratner, Anca Dragan, Sergey Levine, and Chelsea Finn. **Learning a Prior over Intent via Meta-Inverse Reinforcement Learning** arXiv preprint arXiv:1805.12573 (2018).
+
+**[40]** Finn, Chelsea, Kelvin Xu, and Sergey Levine. **Probabilistic Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.02817 (2018).
+
+**[41]** Gupta, Abhishek, Benjamin Eysenbach, Chelsea Finn, and Sergey Levine. **Unsupervised Meta-Learning for Reinforcement Learning** arXiv preprint arXiv:1806.04640(2018).
+
+**[42]** Yoon, Sung Whan, Jun Seo, and Jaekyun Moon. **Meta Learner with Linear Nulling** arXiv preprint arXiv:1806.01010 (2018).
+
+**[43]** Kim, Taesup, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, and Sungjin Ahn. **Bayesian Model-Agnostic Meta-Learning** arXiv preprint arXiv:1806.03836 (2018).
+
+**[44]** Gupta, Abhishek, Russell Mendonca, YuXuan Liu, Pieter Abbeel, and Sergey Levine. **Meta-Reinforcement Learning of Structured Exploration Strategies** arXiv preprint arXiv:1802.07245 (2018).
+
+**[45]** Clavera, Ignasi, Anusha Nagabandi, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, and Chelsea Finn. **Learning to Adapt: Meta-Learning for Model-Based Control** arXiv preprint arXiv:1803.11347 (2018).
+
+**[46]** Houthooft, Rein, Richard Y. Chen, Phillip Isola, Bradly C. Stadie, Filip Wolski, Jonathan Ho, and Pieter Abbeel. **Evolved policy gradients** arXiv preprint arXiv:1802.04821 (2018).
+
+**[47]** Xu, Tianbing, Qiang Liu, Liang Zhao, Wei Xu, and Jian Peng. **Learning to Explore with Meta-Policy Gradient** arXiv preprint arXiv:1803.05044 (2018).
+
+**[48]** Stadie, Bradly C., Ge Yang, Rein Houthooft, Xi Chen, Yan Duan, Yuhuai Wu, Pieter Abbeel, and Ilya Sutskever. **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint arXiv:1803.01118 (2018).
