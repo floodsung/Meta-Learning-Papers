@@ -144,3 +144,5 @@ Neural Computation, 4(1):131–139, 1992.
 **[47]** Xu, Tianbing, Qiang Liu, Liang Zhao, Wei Xu, and Jian Peng. **Learning to Explore with Meta-Policy Gradient** arXiv preprint arXiv:1803.05044 (2018).
 
 **[48]** Stadie, Bradly C., Ge Yang, Rein Houthooft, Xi Chen, Yan Duan, Yuhuai Wu, Pieter Abbeel, and Ilya Sutskever. **Some considerations on learning to explore via meta-reinforcement learning** arXiv preprint arXiv:1803.01118 (2018).
+
+**[49]** Luca Bertinetto, Joao F. Henriques, Philip Torr and Andrea Vedaldi. **Meta-learning with differentiable closed-form solvers** arXiv preprint arXiv:1805.08136 (2018).
